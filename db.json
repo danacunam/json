@@ -1,4 +1,5 @@
-[
+{
+     "posts":   [
         {   id: '1',
             nombre: 'La luna',
             descripcion: 'AQUI iría la descripción breve del reto.Contar un poco sobre el contexto, sobre el conflicto, los usuarios que participan.' ,
@@ -21,3 +22,4 @@
                  
         }
     ]
+}
