@@ -1,26 +1,25 @@
 {
-     "posts":   [
-        {   id: "1",
-            nombre: "La luna",
-            descripcion: "AQUI iría la descripción breve del reto.Contar un poco sobre el contexto, sobre el conflicto, los usuarios que participan." ,
-            logo: "https://picsum.photos/200/100",
-            posted: "Hace 4 horas"
-                 
-    
-        },{ id:"2",
-            nombre: "El cielo",
-            descripcion: "Aquí VA la descripción breve del reto.Contar un poco sobre el contexto, sobre el conflicto, los usuarios que participan. ",
-            logo: "https://dummyimage.com/600x400/000/fff",
-            posted: "Hace 8 horas"
-                    
-    
-        },{ id: "3",
-            nombre: "La playa",
-            descripcion: "Aquí iría la descripción breve del reto.Contar un poco sobre el contexto, sobre el conflicto, los usuarios que participan.",
-            logo: "https://picsum.photos/200/100",
-            posted: "Hace 1 dia"
-                 
-    
-        }
-    ]
+   "posts":[
+      {
+         "id":"1",
+         "nombre":"La luna",
+         "descripcion":"AQUI iría la descripción breve del reto.Contar un poco sobre el contexto, sobre el conflicto, los usuarios que participan.",
+         "logo":"https://picsum.photos/200/100",
+         "posted":"Hace 4 horas"
+      },
+      {
+         "id":"2",
+         "nombre":"El cielo",
+         "descripcion":"Aquí VA la descripción breve del reto.Contar un poco sobre el contexto, sobre el conflicto, los usuarios que participan. ",
+         "logo":"https://dummyimage.com/600x400/000/fff",
+         "posted":"Hace 8 horas"
+      },
+      {
+         "id":"3",
+         "nombre":"La playa",
+         "descripcion":"Aquí iría la descripción breve del reto.Contar un poco sobre el contexto, sobre el conflicto, los usuarios que participan.",
+         "logo":"https://picsum.photos/200/100",
+         "posted":"Hace 1 dia"
+      }
+   ]
 }
