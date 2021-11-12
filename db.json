@@ -1,4 +1,12 @@
-{
+{  "users":[
+   {
+      "id" : "1",
+      "nombre" : "John Doe",
+      "proyecto" : "El sol",
+      "profilePic" : "https://dummyimage.com/600x400/9c5c9c/8082a8"     
+   
+   }
+],
    "posts":[
       {
          "id":"1",
